@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data</folder>
+	<filename>images (112).jpg</filename>
+	<path>C:\Users\dhruva.gupta\Documents\Projects\Object Detection\Guitars\Data\images (112).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>368</width>
+		<height>137</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>electric</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>366</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

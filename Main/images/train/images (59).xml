@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Data</folder>
+	<filename>images (59).jpg</filename>
+	<path>C:\Users\dhruva.gupta\Documents\Projects\Object Detection\Guitars\Data\images (59).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acoustic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>15</ymin>
+			<xmax>106</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>acoustic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>15</ymin>
+			<xmax>168</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>acoustic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>17</ymin>
+			<xmax>259</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

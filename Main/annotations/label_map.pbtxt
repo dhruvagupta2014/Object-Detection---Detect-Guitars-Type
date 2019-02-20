@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'electric'
+}
+
+item {
+  id: 2
+  name: 'acoustic'
+}

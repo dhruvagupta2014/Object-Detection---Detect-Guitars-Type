@@ -1,0 +1,24 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+images (80).jpg,225,225,electric,71,2,177,224
+images (81).jpg,225,225,electric,2,4,225,216
+images (82).jpg,225,225,acoustic,72,4,225,221
+images (83).jpg,225,225,acoustic,86,29,185,211
+images (84).jpg,225,225,electric,26,34,224,213
+images (85).jpg,225,225,acoustic,78,7,172,214
+images (88).jpg,225,225,acoustic,54,13,168,213
+images (89).jpg,225,225,electric,50,1,167,214
+images (9).jpg,225,225,electric,33,3,114,201
+images (9).jpg,225,225,electric,114,15,198,209
+images (91).jpg,225,225,electric,96,3,225,203
+images (92).jpg,225,225,acoustic,34,1,199,225
+images (93).jpg,319,158,acoustic,4,16,305,158
+images (94).jpg,300,168,electric,18,2,96,152
+images (94).jpg,300,168,electric,80,1,143,159
+images (94).jpg,300,168,electric,127,2,188,160
+images (94).jpg,300,168,electric,174,2,232,145
+images (94).jpg,300,168,electric,217,4,281,157
+images (96).jpg,300,168,acoustic,145,1,274,156
+images (97).jpg,168,300,electric,1,3,167,300
+images (98).jpg,300,168,electric,44,1,299,163
+images (99).jpg,300,168,acoustic,29,1,147,155
+images (99).jpg,300,168,acoustic,153,2,269,161
